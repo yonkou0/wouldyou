@@ -44,12 +44,18 @@ button {
 }
 
 .yes-btn {
-  background: #e94d58;
+  background: #55e94d;
 }
 
 .no-btn {
   background: white;
   color: #e94d58;
+  margin-left: 10px;
+}
+
+.maybe-btn {
+  background: rgb(169, 47, 13);
+  color: #ffffff;
   margin-left: 10px;
 }
 .footer {
