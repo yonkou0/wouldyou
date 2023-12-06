@@ -1,0 +1,23 @@
+{
+  "name": "wouldyou",
+  "version": "1.0.0",
+  "description": "Just a small Don't Know what I made",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonkou0/yes-no.git"
+  },
+  "keywords": [
+    "Small",
+    "Project"
+  ],
+  "author": "sweash",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yonkou0/yes-no/issues"
+  },
+  "homepage": "https://github.com/yonkou0/yes-no#readme"
+}
